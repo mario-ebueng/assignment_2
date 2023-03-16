@@ -1,0 +1,111 @@
+*{
+    text-align: center;
+    font-family:'Amazon Ember', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    margin:auto;
+}
+#placehold{
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+#login{
+    margin-top: 2rem;
+    margin-bottom: 10px;
+    padding: 0px 25px 20px;
+    display: inline-block;
+    border: solid rgb(227, 227, 227) 1px;
+    border-radius: 3px;
+}
+.email{
+    font-size:15px;
+    padding-right: 9rem;
+}
+#email{
+    width:20rem;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    font-size: 19.px;
+}
+
+h2{
+    padding: 0;
+    font-size: 30px;
+    text-align: left;
+}
+
+#password{
+    margin-top: 5px;
+    width:20rem;
+    text-align: left;
+    font-size: 19.px;
+}
+
+#continue{
+    font-size: 15px;
+    padding:9px;
+    border: solid black 1px;
+    border-radius: 2px;
+    width: 20.5rem;
+    background-color: rgb(250, 193, 86);
+}
+.help{
+    text-decoration: none;
+    margin-right: 13.5rem;
+    color:rgb(0, 162, 255);
+    font-size: 17px;
+}
+
+.password{
+    padding-left: 40px;
+    font-size: 15px;
+}
+.forgot{
+    margin-left: 7.5rem;
+    text-decoration: none;
+    color:rgb(0, 162, 255);
+    font-size: 17.5px;
+}
+span{
+    color:rgb(132, 131, 131);
+    font-size: 17px;
+}
+span:after,
+span:before{
+    color: rgb(132, 131, 131);
+    content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
+}
+
+#create{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    padding: 3px 100px 3px;
+    font-size: 17px;
+    border: solid lightgray 1.5px;
+    border-radius: 2px;
+}
+
+ul{
+    text-align: center;
+    margin-right: 30px;
+}
+
+li{
+    display:inline;
+}
+
+ul a{
+    font-size: 15px;
+    text-decoration: none;
+    padding: 15px;
+    color: rgb(0, 162, 255);
+}
+
+p{
+    padding-left: 15px;
+    font-size: 15px;
+}
